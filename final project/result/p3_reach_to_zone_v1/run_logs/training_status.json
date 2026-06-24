@@ -1,0 +1,38 @@
+{
+    "NiryoReach": {
+        "checkpoints": [
+            {
+                "steps": 499973,
+                "file_path": "E:\\coding for ro\\AML\\final project\\result\\p3_reach_to_zone_v1\\NiryoReach\\NiryoReach-499973.onnx",
+                "reward": 54.22224452665874,
+                "creation_time": 1781998087.5346904,
+                "auxillary_file_paths": [
+                    "E:\\coding for ro\\AML\\final project\\result\\p3_reach_to_zone_v1\\NiryoReach\\NiryoReach-499973.pt"
+                ]
+            },
+            {
+                "steps": 500101,
+                "file_path": "E:\\coding for ro\\AML\\final project\\result\\p3_reach_to_zone_v1\\NiryoReach\\NiryoReach-500101.onnx",
+                "reward": 54.22224452665874,
+                "creation_time": 1781998087.5876439,
+                "auxillary_file_paths": [
+                    "E:\\coding for ro\\AML\\final project\\result\\p3_reach_to_zone_v1\\NiryoReach\\NiryoReach-500101.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 500101,
+            "file_path": "E:\\coding for ro\\AML\\final project\\result\\p3_reach_to_zone_v1\\NiryoReach.onnx",
+            "reward": 54.22224452665874,
+            "creation_time": 1781998087.5876439,
+            "auxillary_file_paths": [
+                "E:\\coding for ro\\AML\\final project\\result\\p3_reach_to_zone_v1\\NiryoReach\\NiryoReach-500101.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.1.0",
+        "torch_version": "2.2.2+cpu"
+    }
+}

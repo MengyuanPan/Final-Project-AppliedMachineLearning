@@ -1,0 +1,29 @@
+{
+    "NiryoReach": {
+        "checkpoints": [
+            {
+                "steps": 249056,
+                "file_path": "E:\\coding for ro\\AML\\final project\\result\\p4_release_safe_snap_v6\\NiryoReach\\NiryoReach-249056.onnx",
+                "reward": 60.74490665254139,
+                "creation_time": 1782228345.60386,
+                "auxillary_file_paths": [
+                    "E:\\coding for ro\\AML\\final project\\result\\p4_release_safe_snap_v6\\NiryoReach\\NiryoReach-249056.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 249056,
+            "file_path": "E:\\coding for ro\\AML\\final project\\result\\p4_release_safe_snap_v6\\NiryoReach.onnx",
+            "reward": 60.74490665254139,
+            "creation_time": 1782228345.60386,
+            "auxillary_file_paths": [
+                "E:\\coding for ro\\AML\\final project\\result\\p4_release_safe_snap_v6\\NiryoReach\\NiryoReach-249056.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.1.0",
+        "torch_version": "2.2.2+cpu"
+    }
+}

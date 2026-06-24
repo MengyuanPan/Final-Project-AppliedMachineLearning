@@ -1,0 +1,65 @@
+{
+    "NiryoReach": {
+        "checkpoints": [
+            {
+                "steps": 49956,
+                "file_path": "results\\phase2_attach_from_phase1_move03\\NiryoReach\\NiryoReach-49956.onnx",
+                "reward": 6.6721617698669435,
+                "creation_time": 1781817749.5286605,
+                "auxillary_file_paths": [
+                    "results\\phase2_attach_from_phase1_move03\\NiryoReach\\NiryoReach-49956.pt"
+                ]
+            },
+            {
+                "steps": 99995,
+                "file_path": "results\\phase2_attach_from_phase1_move03\\NiryoReach\\NiryoReach-99995.onnx",
+                "reward": 6.073147865136464,
+                "creation_time": 1781818361.8885193,
+                "auxillary_file_paths": [
+                    "results\\phase2_attach_from_phase1_move03\\NiryoReach\\NiryoReach-99995.pt"
+                ]
+            },
+            {
+                "steps": 149999,
+                "file_path": "results\\phase2_attach_from_phase1_move03\\NiryoReach\\NiryoReach-149999.onnx",
+                "reward": 6.631021673029119,
+                "creation_time": 1781818970.7622247,
+                "auxillary_file_paths": [
+                    "results\\phase2_attach_from_phase1_move03\\NiryoReach\\NiryoReach-149999.pt"
+                ]
+            },
+            {
+                "steps": 199952,
+                "file_path": "results\\phase2_attach_from_phase1_move03\\NiryoReach\\NiryoReach-199952.onnx",
+                "reward": 6.653392807129891,
+                "creation_time": 1781819593.6706672,
+                "auxillary_file_paths": [
+                    "results\\phase2_attach_from_phase1_move03\\NiryoReach\\NiryoReach-199952.pt"
+                ]
+            },
+            {
+                "steps": 213781,
+                "file_path": "results\\phase2_attach_from_phase1_move03\\NiryoReach\\NiryoReach-213781.onnx",
+                "reward": 6.65346295038859,
+                "creation_time": 1781819761.1402452,
+                "auxillary_file_paths": [
+                    "results\\phase2_attach_from_phase1_move03\\NiryoReach\\NiryoReach-213781.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 213781,
+            "file_path": "results\\phase2_attach_from_phase1_move03\\NiryoReach.onnx",
+            "reward": 6.65346295038859,
+            "creation_time": 1781819761.1402452,
+            "auxillary_file_paths": [
+                "results\\phase2_attach_from_phase1_move03\\NiryoReach\\NiryoReach-213781.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.1.0",
+        "torch_version": "2.2.2+cpu"
+    }
+}
